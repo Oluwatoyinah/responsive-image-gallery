@@ -1,0 +1,28 @@
+img {
+	width: 21%;
+	float: left;
+	margin: 2%;
+}
+
+h1 {
+	color: green;
+	font-family: "Ink free";
+	text-align: center;
+}
+
+p {
+	font-family: Candara;
+	color:  rgba(150,200, 0, 0.9);
+	text-align: center;
+	font-size: 15px;
+}
+
+@media(max-width: 560px) {
+	img {
+		width: 98%;
+		float: left;
+		margin: 2%;
+    }
+
+}
+
